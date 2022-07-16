@@ -3,41 +3,45 @@ Campaign Notes Saturday 5e Game
 
 Background
 ----------
- A small village, Tonbar, of huts near the base of a sleeping volcano, Malakar, the ancient Dragon God.
+ A small village, Tonbar, of huts near the base of a sleeping volcano, named Malakar, the ancient Dragon God.
 
- The community large subsists on hunting and gathering the plentiful gombi fruits.
+ The community large subsists on hunting and gathering the plentiful gombi fruits that grow nearby.
 
 Characters
 ----------
 
 ```plantuml
 rectangle aaron [
-**Name**
-Description
-Role
+**Neezdec**
+Hyper active kobold
+Fanatical devotee of Malakar. Hangs out at the stone prayer circle
+Wants to be everyone's best friend
+Accident prone laborer
 ]
 
 rectangle miriam [
-**Name**
-Description
-Role
+**Kriv**
+Red dragon born
+Loves violence, Very angry and loud.
+Hunter and guard
+Likes to cook.
 ]
 
 rectangle mady [
-**Name**
-Description
-Role
+**Koren**
+Blue Dragonborn outlander druid
+Gombi fruit gatherer
 ]
 
 rectangle chief [
 **Walaki**
-A very old Dragon born.
+A very old Brass Dragon born.
 Chief and High priest of village
 ]
 
 rectangle prince [
 **Wanana**
-Walaki's only son
+Walaki's only Red son
 Only 4 years old
 Heir to the chief
 ]
@@ -52,6 +56,7 @@ Traveling merchant
 
 rectangle priestess [
 **Eva**
+A gold dragon born
 Local healer and herbalist
 Has a huge scar from exploded lava burst when she was a child.
 An influential priestess in the town
@@ -64,18 +69,20 @@ rectangle malakar [
 The Unstoppable
 ]
 
-
 chief --> prince : father
 chief --> priestess: father
 priestess <--> trader: ideological rivals.
+miriam --> aaron : despise him because his madness is too chaotic
+mady --> miriam : dislike him because he is a grouch
+aaron <-- priestess : finds Neezdec endearing and gives him odd tasks.
+mady <-- priestess : Thinks you a very capable
+miriam <-- prince : Dismissive role model
+aaron --> mady : Loves to help her with here temple chores.
+
 
 ```
 
+Log
+---
 
-
-Wolves
-Mastiffs
-
-Spider
-
-Imp
+#### 2022-07-16
