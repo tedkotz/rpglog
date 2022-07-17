@@ -29,6 +29,9 @@ This campaign uses a numerical alignment system
 Characters
 ----------
 
+![](dnd-thursday-2022.svg)
+
+
 <object data="dnd-thursday-2022.svg" >
 
 ```plantuml
