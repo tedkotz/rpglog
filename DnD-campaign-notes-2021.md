@@ -32,7 +32,7 @@ Characters
 ![](dnd-thursday-2022.svg)
 
 
-<!--
+<div hidden>
 
 ```plantuml
 @startuml dnd-thursday-2022
@@ -123,7 +123,7 @@ ulf --> ingrid : deceased wife
 
 rob --> phineus : daughter and caretaker
 eva --> phineus : Ex-wife
-eva --> clem : Step-mom
+eva ---> clem : Step-mom
 phineus --> rob : father
 james --> phineus : destroyer
 clem <--> rob : step-siblings
@@ -151,7 +151,7 @@ mittens --> james : Partner in crime
 
 @enduml
 ```
--->
+</div>
 
 </object>
 
