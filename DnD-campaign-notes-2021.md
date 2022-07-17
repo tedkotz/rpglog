@@ -30,10 +30,7 @@ Characters
 ----------
 
 ![](dnd-thursday-2022.svg)
-
-
-<div style="visibility:hidden">
-
+<!--
 ```plantuml
 @startuml dnd-thursday-2022
 
@@ -119,41 +116,39 @@ Pit Fiend
 james <-- valgarun : spurned patron
 igron <-- valgarun : Dark Patron
 
-ulf --> ingrid : deceased wife
+ingrid <-- ulf : deceased wife
 
-rob --> phineus : daughter and caretaker
-eva --> phineus : Ex-wife
-eva ---> clem : Step-mom
-phineus --> rob : father
-james --> phineus : destroyer
-clem <--> rob : step-siblings
-rob --> martin : has secret crush on
-rob --> dave : using to get closer to Simon
+phineus <-- rob  : daughter and caretaker
+phineus <-- eva : Ex-wife
+clem <-- eva : Step-mom
+rob <-- phineus : father
+phineus <-- james : destroyer
+clem <-> rob : step-siblings
+martin <-- rob : has secret crush on
+dave <-- rob : using to get closer to Simon
 
-eva --> rob : mother
+rob <-- eva : mother
 
-aronan --> dave : Foster father
-dave --> aronan : Apprentice
-dave --> clem : Distrustful because he's cheap
+dave <-- aronan : Foster father
+aronan <-- dave : Apprentice
+clem <-- dave : Distrustful because he's cheap
 
-martin --> ulf : assistant
-ulf --> martin : Foster Father
+ulv <-- martin : assistant
+martin <-- ulf : Foster Father
 
 james <-- clem : vegetable thief
-james --> dave : favorite mark for practical jokes
-clem --> erik: apprentice
-clem <--> martin : Foster cousins
-ulf --> clem : Uncle
-james --> martin : immune to pranks
+dave <-- james : favorite mark for practical jokes
+erik <-- clem: apprentice
+clem <-> martin : Foster cousins
+clem <-- ulf  : Uncle
+james <-- martin : immune to pranks
 martin <-- dave : silent confidant
 
-mittens --> james : Partner in crime
+james <-- mittens  : Partner in crime
 
 @enduml
 ```
-</div>
-
-</object>
+-->
 
 Places
 ------
