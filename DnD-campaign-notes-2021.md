@@ -32,7 +32,7 @@ Characters
 ![](dnd-thursday-2022.svg)
 
 
-<div hidden>
+<div style="visibility:hidden">
 
 ```plantuml
 @startuml dnd-thursday-2022
