@@ -32,7 +32,7 @@ Characters
 ![](dnd-thursday-2022.svg)
 
 
-<object data="dnd-thursday-2022.svg" >
+<!--
 
 ```plantuml
 @startuml dnd-thursday-2022
@@ -151,6 +151,7 @@ mittens --> james : Partner in crime
 
 @enduml
 ```
+-->
 
 </object>
 
