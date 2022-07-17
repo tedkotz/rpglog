@@ -133,7 +133,7 @@ dave <-- aronan : Foster father
 aronan <-- dave : Apprentice
 clem <-- dave : Distrustful because he's cheap
 
-ulv <-- martin : assistant
+ulf <-- martin : assistant
 martin <-- ulf : Foster Father
 
 james <-- clem : vegetable thief

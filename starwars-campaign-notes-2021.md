@@ -11,7 +11,10 @@ The 5 sects of Jedi try to be a beacon of good in these trying times.
 Characters
 ----------
 
+![](starwars-2021.svg)
+<!--
 ```plantuml
+@startuml starwars-2021
 
 skinparam componentStyle rectangle
 
@@ -67,14 +70,16 @@ deceased
 ]
 
 
-rowan --> carnet : former boss
-rowan <--> kitt : coworkers
+carnet <-- rowan : former boss
+rowan <-> kitt : coworkers
 master -> hess : Master
 master <- hess : Padawan
 rowan -> tarei : Reluctant Subordinate
 tarei -> rowan : Overseer
 
+@enduml
 ```
+-->
 
 Jedi Sects
 ----------

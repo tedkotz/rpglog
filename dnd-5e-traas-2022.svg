@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="868px" preserveAspectRatio="none" style="width:1282px;height:868px;" version="1.1" viewBox="0 0 1282 868" width="1282px" zoomAndPan="magnify"><defs><filter height="300%" id="f1v6hw9yzn3a6r" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[6577a51b410351e3a563ec2a4858f8b3]
+entity aaron--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="101.4844" style="stroke: #000000; stroke-width: 1.5;" width="468" x="6" y="400"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="16" y="422.9951">Neezdec</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="135" x="16" y="439.292">Hyper active kobold</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="448" x="16" y="455.5889">Fanatical devotee of Malakar. Hangs out at the stone prayer circle</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="240" x="16" y="471.8857">Wants to be everyone's best friend</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="157" x="16" y="488.1826">Accident prone laborer</text><!--MD5=[c0a7a7618f979b56445de2d6e8fb1d88]
+entity miriam--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="101.4844" style="stroke: #000000; stroke-width: 1.5;" width="269" x="513.5" y="8"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="31" x="523.5" y="30.9951">Kriv</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="117" x="523.5" y="47.292">Red dragon born</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="249" x="523.5" y="63.5889">Loves violence, Very angry and loud.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="523.5" y="79.8857">Hunter and guard</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="95" x="523.5" y="96.1826">Likes to cook.</text><!--MD5=[e783c524a0a342e5cffbf92e9497cd04]
+entity mady--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="68.8906" style="stroke: #000000; stroke-width: 1.5;" width="247" x="524.5" y="186"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="48" x="534.5" y="208.9951">Koren</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="227" x="534.5" y="225.292">Blue Dragonborn outlander druid</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="534.5" y="241.5889">Gombi fruit gatherer</text><!--MD5=[c844b5b16dd5b261dafd302f3cd30757]
+entity chief--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="68.8906" style="stroke: #000000; stroke-width: 1.5;" width="226" x="621" y="789"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="50" x="631" y="811.9951">Walaki</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="204" x="631" y="828.292">A very old Brass Dragon born.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="206" x="631" y="844.5889">Chief and High priest of village</text><!--MD5=[674207fc53dc7305cb6d3e077cbe1c2f]
+entity prince--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="85.1875" style="stroke: #000000; stroke-width: 1.5;" width="168" x="1065" y="285"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62" x="1075" y="307.9951">Wanana</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="148" x="1075" y="324.292">Walaki's only Red son</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1075" y="340.5889">Only 4 years old</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1075" y="356.8857">Heir to the chief</text><!--MD5=[b2e63a4c3575cd6ef9c11783c3c6a573]
+entity trader--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="101.4844" style="stroke: #000000; stroke-width: 1.5;" width="561" x="614.5" y="594.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="154" x="624.5" y="617.4951">Cornwallis Meridian</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="92" x="624.5" y="633.792">Gnome Sailor</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="541" x="624.5" y="650.0889">He comes to Tonbar once a month to trade gombi fruits and local trade goods.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="624.5" y="666.3857">Traveling merchant</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="362" x="624.5" y="682.6826">~Lvl 5 Rogue (Arcane Companion) - Edgar the Ferret</text><!--MD5=[20b843bda04d30e2591f820fae463d23]
+entity priestess--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="134.0781" style="stroke: #000000; stroke-width: 1.5;" width="459" x="10.5" y="578"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="27" x="20.5" y="600.9951">Eva</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132" x="20.5" y="617.292">A gold dragon born</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175" x="20.5" y="633.5889">Local healer and herbalist</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="439" x="20.5" y="649.8857">Has a huge scar from exploded lava burst when she was a child.</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="236" x="20.5" y="666.1826">An influential priestess in the town</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="20.5" y="682.4795">Isolationist</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="20.5" y="698.7764">~Lvl 5 Cleric</text><!--MD5=[943cabe38cb5091b676108125421d9ef]
+entity malakar--><rect fill="#FEFECE" filter="url(#f1v6hw9yzn3a6r)" height="52.5938" style="stroke: #000000; stroke-width: 1.5;" width="139" x="817.5" y="32"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="60" x="827.5" y="54.9951">Malakar</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="119" x="827.5" y="71.292">The Unstoppable</text><!--MD5=[8a944ad9713b2b12fa6b05033bc0cb39]
+reverse link prince to chief--><path d="M1173.31,374.65 C1210.85,453.01 1270.87,613.16 1193,712 C1150.71,765.68 968.77,796.31 847.05,811.15 " fill="none" id="prince&lt;-chief" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1171.1,370.07,1171.4088,379.914,1173.2729,374.5731,1178.6138,376.4373,1171.1,370.07" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="38" x="1229" y="544.0669">father</text><!--MD5=[7c4ee6c366016e6bf663cbc55c3091b7]
+reverse link priestess to chief--><path d="M429.73,713.79 C501.75,739.52 580.63,767.7 640.03,788.93 " fill="none" id="priestess&lt;-chief" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="425,712.1,432.1277,718.8967,429.7081,713.7835,434.8213,711.3638,425,712.1" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="38" x="547" y="755.0669">father</text><!--MD5=[8cf0ec5195e2bb69481ee1be0a51b702]
+link priestess to trader--><path d="M474.76,645 C518.3,645 564.21,645 609.07,645 " fill="none" id="priestess-trader" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="614.25,645,605.25,641,609.25,645,605.25,649,614.25,645" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="469.55,645,478.55,649,474.55,645,478.55,641,469.55,645" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="108" x="488" y="638.0669">ideological rivals.</text><!--MD5=[f47d090dc62207c4cb76f3cdea6ae411]
+reverse link aaron to miriam--><path d="M209.04,394.98 C180.89,337.31 150.13,246.47 196,186 C234.51,135.24 394.62,99.29 513.41,79 " fill="none" id="aaron&lt;-miriam" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="211.41,399.76,211.0006,389.9197,209.1911,395.2793,203.8315,393.4699,211.41,399.76" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="309" x="197" y="225.0669">despise him because his madness is too chaotic</text><!--MD5=[07c357f8b1fe065901b2b5480d65fd69]
+reverse link miriam to mady--><path d="M648,114.28 C648,138.09 648,165.23 648,185.98 " fill="none" id="miriam&lt;-mady" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="648,109.25,644,118.25,648,114.25,652,118.25,648,109.25" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="219" x="649" y="152.0669">dislike him because he is a grouch</text><!--MD5=[9648089e3ebb30197da8b38996c9c207]
+reverse link aaron to priestess--><path d="M240,506.08 C240,528.42 240,554.49 240,577.9 " fill="none" id="aaron&lt;-priestess" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="240,501.07,236,510.07,240,506.07,244,510.07,240,501.07" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="321" x="241" y="544.0669">finds Neezdec endearing and gives him odd tasks.</text><!--MD5=[963ae0ff7b36c818eeeb89d47657e8f7]
+reverse link mady to priestess--><path d="M650.51,260.15 C652.68,327.81 646.96,468.09 571,548 C543.38,577.06 507.55,597.48 469.69,611.8 " fill="none" id="mady&lt;-priestess" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="650.33,255.01,646.6416,264.1421,650.5018,260.007,654.6369,263.8672,650.33,255.01" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="164" x="640" y="455.0669">Thinks you a very capable</text><!--MD5=[67f580d3a4f5c6fd090dbada561770a7]
+reverse link miriam to prince--><path d="M787.64,106.32 C829.8,120.78 867.51,134.19 877,139 C958.87,180.47 1044.65,243.34 1097.47,284.67 " fill="none" id="miriam&lt;-prince" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="782.74,104.64,789.9712,111.3266,787.4733,106.251,792.5489,103.7532,782.74,104.64" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="140" x="906" y="152.0669">Dismissive role model</text><!--MD5=[91eaa98e3eb2fcafed7c21b3e3ad5c13]
+reverse link mady to aaron--><path d="M518.95,250.61 C511.53,252.13 504.18,253.61 497,255 C417.38,270.46 381.61,235.98 317,285 C280.32,312.83 260.44,362.42 250.12,399.9 " fill="none" id="mady&lt;-aaron" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="524.09,249.54,514.466,247.4473,519.1938,250.5535,516.0876,255.2813,524.09,249.54" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="272" x="318" y="332.0669">Loves to help her with here temple chores.</text><!--MD5=[290994701d7e126e1a195bb521b75ac6]
+@startuml dnd-5e-traas-2022
+
+rectangle aaron [
+**Neezdec**
+Hyper active kobold
+Fanatical devotee of Malakar. Hangs out at the stone prayer circle
+Wants to be everyone's best friend
+Accident prone laborer
+]
+
+rectangle miriam [
+**Kriv**
+Red dragon born
+Loves violence, Very angry and loud.
+Hunter and guard
+Likes to cook.
+]
+
+rectangle mady [
+**Koren**
+Blue Dragonborn outlander druid
+Gombi fruit gatherer
+]
+
+rectangle chief [
+**Walaki**
+A very old Brass Dragon born.
+Chief and High priest of village
+]
+
+rectangle prince [
+**Wanana**
+Walaki's only Red son
+Only 4 years old
+Heir to the chief
+]
+
+rectangle trader [
+**Cornwallis Meridian**
+Gnome Sailor
+He comes to Tonbar once a month to trade gombi fruits and local trade goods.
+Traveling merchant
+~Lvl 5 Rogue (Arcane Companion) - Edgar the Ferret
+]
+
+rectangle priestess [
+**Eva**
+A gold dragon born
+Local healer and herbalist
+Has a huge scar from exploded lava burst when she was a child.
+An influential priestess in the town
+Isolationist
+~Lvl 5 Cleric
+]
+
+rectangle malakar [
+**Malakar**
+The Unstoppable
+]
+
+prince <- - chief  : father
+priestess <- - chief : father
+priestess <-> trader: ideological rivals.
+aaron <- - miriam : despise him because his madness is too chaotic
+miriam <- - mady  : dislike him because he is a grouch
+aaron <- - priestess : finds Neezdec endearing and gives him odd tasks.
+mady <- - priestess : Thinks you a very capable
+miriam <- - prince : Dismissive role model
+mady <- - aaron  : Loves to help her with here temple chores.
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 05:22:07 EST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.15+10-post-Debian-1deb11u1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

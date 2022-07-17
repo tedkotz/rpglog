@@ -10,7 +10,11 @@ Background
 Characters
 ----------
 
+![](dnd-5e-traas-2022.svg)
+<!--
 ```plantuml
+@startuml dnd-5e-traas-2022
+
 rectangle aaron [
 **Neezdec**
 Hyper active kobold
@@ -69,18 +73,19 @@ rectangle malakar [
 The Unstoppable
 ]
 
-chief --> prince : father
-chief --> priestess: father
-priestess <--> trader: ideological rivals.
-miriam --> aaron : despise him because his madness is too chaotic
-mady --> miriam : dislike him because he is a grouch
+prince <-- chief  : father
+priestess <-- chief : father
+priestess <-> trader: ideological rivals.
+aaron <-- miriam : despise him because his madness is too chaotic
+miriam <-- mady  : dislike him because he is a grouch
 aaron <-- priestess : finds Neezdec endearing and gives him odd tasks.
 mady <-- priestess : Thinks you a very capable
 miriam <-- prince : Dismissive role model
-aaron --> mady : Loves to help her with here temple chores.
+mady <-- aaron  : Loves to help her with here temple chores.
 
-
+@enduml
 ```
+-->
 
 Log
 ---
