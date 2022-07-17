@@ -30,6 +30,8 @@ Characters
 ----------
 
 ```plantuml
+@startuml dnd-thursday-2022
+
 rectangle clem [
 **Stig Magnusson**
 Simple Farmer
@@ -142,6 +144,7 @@ martin <-- dave : silent confidant
 
 mittens --> james : Partner in crime
 
+@enduml
 ```
 
 Places
@@ -336,6 +339,33 @@ After passing thru the portal, Tempus was affected by PLanar shock, -1 to all d2
 
 The party found themselves deep inside a formian hive surrounded by a dozen formian warrior demanding they comply and join the hive as workers.
 
-They dind't except the offer and have decided to fight.
+They didn't accept the offer and have decided to fight.
 
+#### Interlude
+The party brought back a bunch of formians, but the fight spilt over into paul's lab.
 
+The destruction from the fight caused the loss of some needed spell components, particularly mandrake root.
+
+The party returned to the city to acquire some.
+
+The party again avoided a roving band of ravengers
+
+Then entered into the city though the passage under Klar Kuthon's pottery shop.
+
+There they were attacked by Klar's guardian scorpians after being alerted by shrieker mushrooms
+
+The party was split when the half that was scrapping the scorpian corpses was shooed out of the basement while the other half rested in a rope trick.
+
+#### 2022-07-14
+The party found a source on mandrake root from a local bartender and brewer, Boran Theus.
+
+He works a a bar called the Astral Star. The wall behind the bar at the astal Star is a giant tear in reality to the swirling other worldly depths of the Astral plane.
+
+Boran said that the mandrake root they need could be gotten for 10000sp. The party does not have that kind of money or barter.
+
+There was a young planes walker, Klar Kuthon, who fell into Avernus while exploring the Astral Plane.
+He was willing to give the partly 1200gp for a piece of jacinth.
+He helped Bobby Hook learn locate object.
+
+#### 2022-??-??
+The party squeezes into a crag in the passage under the city to search for a piece of jacinth.

@@ -86,3 +86,12 @@ Log
 ---
 
 #### 2022-07-16
+An ominous omen at the end of the prince's birthday party put the villages priestess on edge.
+
+under cover of darkness 2 weeks later, a pack of sickly wolves attack the village
+
+Koren and Eva determined something in the forest drove the wolves out of their normal hunting grounds
+
+Eva asked the party to investigate the forest.
+
+
