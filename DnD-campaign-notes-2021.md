@@ -370,5 +370,14 @@ There was a young planes walker, Klar Kuthon, who fell into Avernus while explor
 He was willing to give the partly 1200gp for a piece of jacinth.
 He helped Bobby Hook learn locate object.
 
-#### 2022-??-??
+#### 2022-07-28
 The party squeezes into a crag in the passage under the city to search for a piece of jacinth.
+
+Coming down a craggy slick rock face the party was attacked by piercers.
+
+After the fight they found 2 magic weapons.
+
+#### 2022-08-??
+Down to the pool at the bottom
+
+

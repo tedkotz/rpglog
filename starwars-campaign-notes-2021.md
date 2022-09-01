@@ -116,7 +116,7 @@ When you see the symbol of the hand you know your time is short.
 Wandering Jedi
 : A diverse group of Jedi who largely pass their training on Master to Padawan one on one.
 : Most believe the failings of the Old Republic Jedi came from their reliance on Mass indoctrination and isolation from the common people of the galaxy.
-: They believe that Jedi training should be a personal affair between the Master and Padawan. The Master always mindful of the humanity of the padawan. The padawan always mindful of the experience of the Master. Each responsible for the safety Physical and Spiritual of the other. If a Wadering Jedi does fall to the Dark side, their Master or most senior Padawan will usually take it as their duty to bring them back to the light or eliminate them.
+: They believe that Jedi training should be a personal affair between the Master and Padawan. The Master always mindful of the humanity of the padawan. The padawan always mindful of the experience of the Master. Each responsible for the safety Physical and Spiritual of the other. If a Wandering Jedi does fall to the Dark side, their Master or most senior Padawan will usually take it as their duty to bring them back to the light or eliminate them.
 : Base of Operation: None, though many would cite the new Jedi temple on Coruscant
 
 Planets & Places
@@ -379,6 +379,49 @@ Kitt has code cylinder with recording of Sith manual.
 The crew picked up a large mysterious box they were instructed not to open from the Banking clan to ship to New Alderaan.
 
 They are heading back to new Alderaan to check in with the council there.
+
+#### 2022-07-25
+While delivering the former leader of the Red Sons Gang to the banking clan, The party was attacked by gang members they were able to scare them away with little trouble.
+
+The party returned to the Garrison.
+There they were greeted with open arms and prepare to go before the counsel to tell their story.
+
+
+#### 2022-08-08
+The Trials:
+Skill - Light Saber - The Storm Troopers on Kijimi
+Courage - Resist fear/ Brave battle - Dark side Yeti
+Flesh - Loss of material things - Death of Master
+Spirit - Self-Reflection - Focus the force to overcome some otherwise unbeatable darkside spirits
+Insight - Seen through deception - Tracking the on the run Sith Cultist through the galaxy.
+
+Rowan spent 1.5 months upgrading the ship.
+
+Kitt: A Tabaxi named Ivanna Ravi, she put together Kitt's bad mission that resulted in his incarceration on New Alderaan.
+
+Partners Orwen and Grethal.
+
+#### 2022-08-27
+po-ne-biology
+Ivanna went off with her crew to ____.
+
+After completing the Trials, Hess's first assignment was to investigate his former Master's death.
+
+The Order of the Dragon commissioned Rowan and his crew to aid the new Jedi.
+
+The party left for Corasant to get more clues into the Sith carvings they found on Kajimi.
+
+Due to a Hyperdrive malfunction they had to set down on Jakku, the scrapyard of the old empire.
+
+While there they had a run in with a uppity Mon Calamari space yacht club, and restocked on parts.
+
+#### 2022-09-12
+Force Dream
+
+Encounter on the streets
+
+
+repair the hyperdrive
 
 
 
