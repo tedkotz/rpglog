@@ -338,7 +338,7 @@ Paul took the materials and crafted a ring gate that would allow the party to re
 
 The party traded Illanthal's head for access to the portal to Mechanus.
 
-After passing thru the portal, Tempus was affected by PLanar shock, -1 to all d20 rolls until given a full chance to recover.
+After passing thru the portal, Tempus was affected by Planar shock, -1 to all d20 rolls until given a full chance to recover.
 
 The party found themselves deep inside a formian hive surrounded by a dozen formian warrior demanding they comply and join the hive as workers.
 
@@ -362,7 +362,7 @@ The party was split when the half that was scrapping the scorpian corpses was sh
 #### 2022-07-14
 The party found a source on mandrake root from a local bartender and brewer, Boran Theus.
 
-He works a a bar called the Astral Star. The wall behind the bar at the astal Star is a giant tear in reality to the swirling other worldly depths of the Astral plane.
+He works a a bar called the Astral Star. The wall behind the bar at the Astral Star is a giant tear in reality to the swirling other worldly depths of the Astral plane.
 
 Boran said that the mandrake root they need could be gotten for 10000sp. The party does not have that kind of money or barter.
 
@@ -379,5 +379,13 @@ After the fight they found 2 magic weapons.
 
 #### 2022-08-??
 Down to the pool at the bottom
+
+
+#### 2022-09-01
+After being sent to the fighting pits on level 2, Dylan died while fighting a Rogue named Jacob. Was reincarnated even more like a bearded devil, and fought for his first victory in the arena. Before being able to enjoy his spoils, Tempus and rest of the party upon making it to the 2nd level of hell summoned Dylan. The bracer on his armed pulled with him a Bone devil claiming ownership of the pit fighter.
+
+
+
+
 
 
