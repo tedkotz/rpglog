@@ -382,7 +382,39 @@ Down to the pool at the bottom
 
 
 #### 2022-09-01
-After being sent to the fighting pits on level 2, Dylan died while fighting a Rogue named Jacob. Was reincarnated even more like a bearded devil, and fought for his first victory in the arena. Before being able to enjoy his spoils, Tempus and rest of the party upon making it to the 2nd level of hell summoned Dylan. The bracer on his armed pulled with him a Bone devil claiming ownership of the pit fighter.
+After being sent to the fighting pits on level 2, Dylan died while fighting a
+Rogue named Jacob. Was reincarnated even more like a bearded devil, and fought
+for his first victory in the arena. Before being able to enjoy his spoils,
+Tempus and rest of the party upon making it to the 2nd level of hell summoned
+Dylan. The bracer on his armed pulled with him a Bone Devil claiming ownership
+of the pit fighter.
+
+#### 2022-09-08
+They defeat the bone devil. He promised Tempus a boon and released Dylan from his control.
+
+They jumped through the ring gate.
+
+#### 2022-09-15
+After jumping thru the gate the party found themselves in a pocket dimension run
+by a pit fiend. As the guardian to prevent escapees from the lower levels of
+hell into the first level he was not disposed to release the characters.
+
+Thru so convincing and fast talking the Devil offered Simen an chance to impress
+him by crafting him a sword, with his friends lives in the  balance.
+Simen constructed a double sword with a twist of hell chain infused into
+structure, one side masterwork, the other socketed.
+
+To push the piece over the top, he affixed 2 normal gems and a purple iolite Frost gem to the blade.
+
+The sword was rushed, but showed the skills of the craftmen. So the Pit Fiend took the sword and offered Simen a deal.
+
+Eventually they agreed to:
+1) Simen could keep his soul coin
+2) He would serve the Baatezu by working in the hell forges crafting weapons for the blood war
+3) He would agree to wear a binding cuff to keep him bound in service
+4) The rest of the party by name would be safetly sent to Avernus
+
+After Signing Simen was bound with the cuff, sent to the forges, while the party was teleported to back outside the Glowing Coral.
 
 
 
