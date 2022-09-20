@@ -420,13 +420,13 @@ While there they had a run in with a uppity Mon Calamari space yacht club, and r
 
 
 - Force Dream
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+    - Is there anything we can do to save or rescue Master Satechi?
+    - Should we bypass Corescant and head directly to Cantobyte?
+    - Is Hara Dane on or en route to Cantobyte?
+    - Is Hara Dane a Sith?
+    - Do the cultists we're chasing serve a currently living Sith?
+    - Are the cultists trying to raise Sith Lord Palpatine?
+    - Is the Sith Rule of Two still being followed?
 
 Encounter on the streets
 
