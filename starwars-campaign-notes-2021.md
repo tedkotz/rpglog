@@ -416,12 +416,22 @@ Due to a Hyperdrive malfunction they had to set down on Jakku, the scrapyard of 
 While there they had a run in with a uppity Mon Calamari space yacht club, and restocked on parts.
 
 #### 2022-09-12
-Force Dream
+
+
+
+- Force Dream
+    -
+    -
+    -
+    -
+    -
+    -
+    -
 
 Encounter on the streets
 
 
-repair the hyperdrive
+Repair the hyperdrive
 
 
 
