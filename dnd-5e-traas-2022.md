@@ -45,7 +45,7 @@ Chief and High priest of village
 
 rectangle prince [
 **Wanana**
-Walaki's only Red son
+Walaki's Red only son
 Only 4 years old
 Heir to the chief
 ]
@@ -99,4 +99,19 @@ Koren and Eva determined something in the forest drove the wolves out of their n
 
 Eva asked the party to investigate the forest.
 
+#### 2022-10-22
 
+After starting a map of the island, the party decided to follow the river into the forest.
+
+They caused a landslide on the river bank, Kriv and Koren got stuck in the mud.
+With some help from Neezdec they were able to get out.
+
+As they cleaned up a small school of pirahnas got curious and tried to take a nibble. nothing a little
+lightning breath can't solve.
+
+After continuing north they encountered howling to east. investigating they found
+a wolf pack. Using speak with animals they were able to come to a diplomatic solution
+involving them as guides deeper into the forest to where the spiders had pushed
+the wolves out of their territory.
+
+The party was about to rest in the wolves den.

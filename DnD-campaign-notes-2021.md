@@ -355,9 +355,9 @@ The party again avoided a roving band of ravengers
 
 Then entered into the city though the passage under Klar Kuthon's pottery shop.
 
-There they were attacked by Klar's guardian scorpians after being alerted by shrieker mushrooms
+There they were attacked by Klar's guardian scorpions after being alerted by shrieker mushrooms
 
-The party was split when the half that was scrapping the scorpian corpses was shooed out of the basement while the other half rested in a rope trick.
+The party was split when the half that was scrapping the scorpion corpses was shooed out of the basement while the other half rested in a rope trick.
 
 #### 2022-07-14
 The party found a source on mandrake root from a local bartender and brewer, Boran Theus.
@@ -406,7 +406,7 @@ structure, one side masterwork, the other socketed.
 
 To push the piece over the top, he affixed 2 normal gems and a purple iolite Frost gem to the blade.
 
-The sword was rushed, but showed the skills of the craftmen. So the Pit Fiend took the sword and offered Simen a deal.
+The sword was rushed, but showed the skills of the craftsmen. So the Pit Fiend took the sword and offered Simen a deal.
 
 Eventually they agreed to:
 1) Simen could keep his soul coin
@@ -415,6 +415,41 @@ Eventually they agreed to:
 4) The rest of the party by name would be safetly sent to Avernus
 
 After Signing Simen was bound with the cuff, sent to the forges, while the party was teleported to back outside the Glowing Coral.
+
+#### 2022-10-06
+The party met an elf begging to see solidus as he was looking for his lost soul coin. He said his name was Leuca, The party decided to help him.
+
+On their way back to the astral star, The party was attacked by an Erinyes. They managed to drive her off and get to the Inn. They are now resting up.
+
+
+#### 2022-10-20
+
+With the Mandrake the party was able to get Paul what he needed to build a portal out of hell to the plane the temple cam from.
+
+Getting their they found their necroplasm forms were stuck in the Ethereal while Paul moved by himself to the material plane.
+
+The party followed Paul, as night fell and he set up camp. It seemed that the shadows were growing larger and more intimidating and then they attacked...
+
+#### 2022-11-03
+The party defeated 7 shadows, Dave sniping the last one as it tried to run away.
+
+#### 2022-11-17
+As Bobby tried to rest the rest on watch tried to leave a message for Paul.
+In the process they offended a tree spirit that left them to fight 2 more animated trees.
+After that they encountered a quasit who talked to them of abyssal nonsense.
+
+They travelled toward a town to find it was destroyed by  a balor, Baeleretrix. He tried to press them into service, but was distracted by a bunch of modrons.
+
+The party used the distraction to slip away. and find a new place the paul set up camp. the time on the material plane seems to be moving faster. as after only a few hours the day is already over.
+
+#### 2022-12-15
+Travelled to a new town with:
+
+A secretive cult of Baeleretrix that snuck in from the destroyed town looking to increase the ranks of the blood war
+A church to Helm : offer to go to Nirvana from some modrons
+A church to Selune : given a hint about how delicious wild boar stew at the One-eyed cat Tavern is
+
+The one eye cat tavern is not serving Wild Boar stew, today.
 
 
 

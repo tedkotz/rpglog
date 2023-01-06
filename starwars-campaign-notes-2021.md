@@ -419,6 +419,7 @@ While there they had a run in with a uppity Mon Calamari space yacht club, and r
 
 
 
+#### Force dream questions
 - Force Dream
     - Is there anything we can do to save or rescue Master Satechi?
     - Should we bypass Coresant and head directly to Cantobyte?
@@ -429,9 +430,16 @@ While there they had a run in with a uppity Mon Calamari space yacht club, and r
     - Is the Sith Rule of Two still being followed?
 
 Encounter on the streets
-
+ Coming back from getting parts fo rthe hyper drived they are jumped by a large group of level 3 thugs with blasters hoping to take there parts.
 
 Repair the hyperdrive
+
+#### 2022-1x-xxx
+In a dream, Master Satechi comes to Hess.
+He tells him:
+  All roads will take him to a confrontation with Cultists.
+  Hara Dane is on Canto Byte.
+  The cultists are imperial remnants who work to see the return of the emperor.
 
 
 
