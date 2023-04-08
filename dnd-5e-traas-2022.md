@@ -115,3 +115,16 @@ involving them as guides deeper into the forest to where the spiders had pushed
 the wolves out of their territory.
 
 The party was about to rest in the wolves den.
+
+#### 2023-04-09
+While resting in the wolves den the party, they awoke to the sound of howling.
+The wolves raised the alarm, the unnatural enemies turn out to be two very old zombies.
+after defeating them the party quickly returned to sleep to get up a little late the next
+morning, but set out on the journey to the cave.
+
+On the way there the were almost ambushed by a giant spider but prevailed against it.
+
+After that they made haste for the cave. Getting there the wolf guides told Koren that they
+smelled spiders and fouler things deep within the earth. Then they wished them luck on their hunt.
+
+#### 20xx-xx-xx

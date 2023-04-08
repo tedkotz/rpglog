@@ -452,7 +452,64 @@ A church to Selune : given a hint about how delicious wild boar stew at the One-
 The one eye cat tavern is not serving Wild Boar stew, today.
 
 
+#### 2023-01-05
+Found the mysterious ghost of a poor young stable boy
+
+When the boar stew was served 5 ruffians came in to feast. They turned out to be the Cultists the party was tracking:
+1. The Leader a blackguard
+2. The cleric
+3. A rogue
+4. A fighter
+5. Another Fighter
 
 
+#### 2023-01-12
 
+The Cult members know something is up after Bobby stole the dagger. They went back into their room.
+
+Rob wrote down the plan.
+
+
+#### 2023-01-19
+The Party killed the 2 low level fighters and cleric.
+
+1. The Leader - Escaped with ghost touch dagger
+2. The cleric - Dead and sent to the abyss
+3. A rogue - Horribly injured, turned coward and escaped
+4. A fighter - Dead and sent to abyss
+5. Another Fighter - Dead and captured by party
+
+#### 2023-01-26
+
+The Party got a boon from Selune
+They used it to get themselves and Paul sent to Mechanus
+The Party has found a couple soul coins
+Leuca has manifested more ghostly powers
+
+#### 2023-02-02
+Kobold professor: Kiblick
+Got room in mechanus
+Went to a the "greatest" restaurant in Mechanus.
+
+
+#### 2023-02-23
+Most of party went to Great Interplanary Data Laborium
+Bobby went to the Conservatorium Grand Mycoloseum
+Kabidil gnomish mushroom soup maker.
+
+
+#### 2023-03-17
+The party went to go oversee one of Lueca's experiments with a modron
+
+while out there they encountered a flock of 5 archerai.
+they won, but tempus was driven insane.
+All but killing Dylan before shackling herself giving lueca a chance to more fully restrain her.
+
+#### 2023-03-XX
+Leuca finds himself with Dylan's unconscious (-4 HP) body and Tempus bound and struggling
+
+#### 2023-04-06
+The party teleported to ysgard where they were brought before Lord Manderson who offered them weapons if the proved their metal:
+1) They must agree to the quest
+2) They may rest in the hall for the night,but must not drink the mead
 
