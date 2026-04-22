@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="290px" preserveAspectRatio="none" style="width:480px;height:290px;" version="1.1" viewBox="0 0 480 290" width="480px" zoomAndPan="magnify"><defs><filter height="300%" id="f1tizgn799g96" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[6577a51b410351e3a563ec2a4858f8b3]
+entity aaron--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="134.4075" style="stroke: #000000; stroke-width: 1.5;" width="161" x="308.5" y="145"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="318.5" y="169.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="129" x="318.5" y="189.0339">Posh Human Noble</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="318.5" y="208.1018">Someing about Class</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="67" x="318.5" y="227.1697">Party Role</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="71" x="318.5" y="246.2376">Motivation</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53" x="318.5" y="265.3055">Interest</text><!--MD5=[659c275dc9a506c39ec972943f7784a1]
+entity rob--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="58.1358" style="stroke: #000000; stroke-width: 1.5;" width="67" x="355.5" y="8"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="365.5" y="32.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="365.5" y="52.0339">Wizard</text><!--MD5=[51bdaf718b55ff702bc3eec47781527b]
+entity jim--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="58.1358" style="stroke: #000000; stroke-width: 1.5;" width="68" x="6" y="8"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="16" y="32.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48" x="16" y="52.0339">Fighter</text><!--MD5=[d1982080363b8351504a29dbc505e3fb]
+entity martin--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="58.1358" style="stroke: #000000; stroke-width: 1.5;" width="63" x="109.5" y="8"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="119.5" y="32.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="43" x="119.5" y="52.0339">Rogue</text><!--MD5=[8ad1ebb61c3fda0062e1bce3f9f93137]
+entity dave--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="58.1358" style="stroke: #000000; stroke-width: 1.5;" width="112" x="208" y="8"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="218" y="32.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="92" x="218" y="52.0339">Warrior Monk</text><!--MD5=[80c7e14e1bdf943ef9686a384cb2bd27]
+entity calvin--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="58.1358" style="stroke: #000000; stroke-width: 1.5;" width="67" x="6.5" y="183"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="16.5" y="207.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="16.5" y="227.0339">Wizard</text><!--MD5=[5e3b05524d56515381ca60f72f4e95af]
+entity phil--><rect fill="#FEFECE" filter="url(#f1tizgn799g96)" height="58.1358" style="stroke: #000000; stroke-width: 1.5;" width="67" x="108.5" y="183"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="118.5" y="207.9659">Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47" x="118.5" y="227.0339">Wizard</text><!--MD5=[707d0937cccc2500eb331ffb96f74570]
+reverse link rob to aaron--><path d="M389,71.32 C389,92.11 389,119.61 389,144.71 " fill="none" id="rob&lt;-aaron" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="389,66.18,385,75.18,389,71.18,393,75.18,389,66.18" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21" x="390" y="110.897">link</text><!--MD5=[8517b14a8e1d0cabbfc854c77fa370b5]
+link jim to martin--><!--MD5=[d60ae7035cfb4e8f8c1504260962cdf1]
+link martin to dave--><!--MD5=[f7be08aa5e12ba32a40402bcaf27b10b]
+link jim to calvin--><!--MD5=[21705f14a4b3f29ff9f44f7165c5e049]
+link calvin to phil--><!--MD5=[d51de745a50cb3145b57921f5cfeb9e9]
+@startuml dnd-5e-dodson-2026
+
+rectangle aaron [
+**Name**
+Posh Human Noble
+Someing about Class
+Party Role
+Motivation
+Interest
+]
+
+rectangle rob [
+**Name**
+Wizard
+]
+
+rectangle jim [
+**Name**
+Fighter
+]
+
+rectangle martin [
+**Name**
+Rogue
+]
+
+rectangle dave [
+**Name**
+Warrior Monk
+]
+
+
+rectangle calvin [
+**Name**
+Wizard
+]
+
+rectangle phil [
+**Name**
+Wizard
+]
+
+
+rob <- - aaron  : link
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 05:22:07 EST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.10+7-Debian-1deb13u1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
