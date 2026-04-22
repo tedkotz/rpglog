@@ -510,6 +510,361 @@ Leuca finds himself with Dylan's unconscious (-4 HP) body and Tempus bound and s
 
 #### 2023-04-06
 The party teleported to ysgard where they were brought before Lord Manderson who offered them weapons if the proved their metal:
-1) They must agree to the quest
+1) They must agree to the quest to slay the fire giant Hidbrog and his advisor Sulan the efreeti
 2) They may rest in the hall for the night,but must not drink the mead
 
+#### 2023-05-04
+The party went to a festival thrown by Hidbrog. They tricked a body gaurd to leave his post with a rock.
+
+#### 2023-05-11
+The party traded rumors at the party trying to poison the minds of Hidbrog, Frelga, Sulan and their men.
+
+The gang stayed together.
+
+The party is next going to sabotage HidBrog's secret exit.
+
+#### 2023-08-24
+White Dragon hoard items:
+    Arcane Scroll (False Life (150 gp)) (total 150 gp)
+    Arcane Scroll (Grease (25 gp), Daze Monster (150 gp)) (total 175 gp)
+    Divine Scroll (Detect Undead (25 gp), Inflict Light Wounds (25 gp), Cure Moderate Wounds (150 gp)) (Opposite effect or target curse) (total 200 gp)
+    Heavy Steel Shield (Medium) (+2 shield) (4170 gp)
+    Potion of Cat's Grace (300 gp)
+    Potion of Cure Light Wounds (50 gp)
+    Potion of Levitate (300 gp)
+    Potion of Mage Armor (50 gp)
+    Potion of Shield of Faith (+2) (50 gp)
+
+
+#### 2023-09-14
+Escaping the dragon's lair after falling for a stone falling ward
+
+#### Missing chunk
+Apricora
+
+#### 2024-03-21
+After escaping a magical maze containing a giant basilisk. The party defeated Frelga and her servitors.
+
+#### 2024-04-04
+The party captured and cleared the house in the city of Brass. finding the only inhabitant to be a strange Half-elf squatter name Derol.
+
+#### 2024-04-18
+The party is met by Mof Brisbane a local Efreeti who encourages them to throw a welcome party, but nothing too loud.
+Bobby manages to impress the local witch.
+
+For the party they bought fancy outfits, hire staff, performers and served the famous mushroom soup.
+
+The Witch, Arwa, is about to show up (Her plan is to try to siphon some soul/hell energy off the party).
+
+Guest list
+----------
+120 Total
+4 of you
+Mof Brisabane
+Arwa (Half-dragon, Half-Elf)
+79 other Efreetis
+10 Other Genies
+20 Fire Creatures, Not True
+5 Others (Derol, Leonal(Sarah), Aboleth(with 4 attendents), Pixie, Baeleretrix)
+
+#### 2024-04-25
+The Party went well Baeletrix caused lots of trouble
+
+Tempus made a wish that caused everyone in the City of Brass to reject their cybernetics
+
+and Arwa kidnapped Leuca
+
+GIFTS
+
+1. Gauntlets of Ogre Power
+2. Ring of mind shielding
+3. Goggles of Night
+4. Gloves of Dex +4
+5. Stone of good luck (Luckstone)
+6. Bracer's of archery, greater
+7. Manual, Clay golem
+8. Belt of Giant Strength
+
+#### 2024-05-02
+
+The party just started a fight with Arwa in her house.
+They are standing inside of here symbol of death radius
+
+Leuca is in the basement. And has been hit by enervation for 3 negative levels.
+
+Bobby is still just outside the door
+Dylan in standing the middle of the front hall and has heard someone coming up the stairs
+Tempus just knocked the door down and is in front of Dylan.
+
+Roll Initiative.
+
+Arwa is trying to gain nighthag like powers by extracting Hell energy she is already a very powerful spell caster. Maybe make her a lvl 15 SCaster and she should have a bunch of summoned beasts. her house is full of ward to activate.
+
+#### 2024-05-30
+
+Leuca needs to find a way to restore 3 negative levels
+Restoration
+Magical revitalization
+An outsider quest
+immersion in a raw source of outsider energy
+Absorb the souls out of solidas
+Absorb the intelligence out of the paladin sword.
+
+some quest givers
+ Mysterious assassin cultist
+ Baeltrix
+ Tooth Fairy - ancient fey
+ Vampire Cleric
+ Couatl
+ Mind flayer?
+ Archon, Hound
+
+#### 2024-06-20
+
+Sneezeweed has had her wand taken by the evil wizard Naxxremis the Hateful.
+He has used to drain her of her power, take over her realm and corrupt the beings therein.
+
+The party battled 7 corrupted tooth fairies
+
+Sneezeweed gave them some potions, good berries, 10000 sp and a parchment with directions to the magic realm:
+
+Beware the dark of the forest.
+Start at the mightiest Oak tree.
+Turn toward the moss
+Travel until you find the faeries circle
+Recite a limerick to attract attention
+Present the potter's tooth
+Hop into the magic circle.
+
+The party plane shifted to Ysgard w/ a dwarven locksmith they encountered named Baileron Wayfinder.
+Instead of the usual bright snow covered forests they found it dark night with a bright full moon.
+They could hear a wolf howl in the distance.
+
+#### 2024-08-22
+While searching the forests of Ysgard, the party noticed they were being staked by a pack of winter wolves led by a werewolf lord.
+During the battle martin found his shadow magic was letting tooth faeries sneak across dimensions
+After the fight 3 faeries turned invisible and escaped into ysgard. one winter wolf was also able to escape.
+The party and the dwarf are now recuperating in a rope trick.
+
+#### 2024-09-19
+After outwitting a dragon to its death, the party scavenged the dragon for components and crossed the branches of Yggdrassil to get to the largest Oak tree in Arborea.
+
+#### 2024-10-03
+- The party found the mighty Oak w/ golden acorns (Heal + poison(ingested DC: 22, 1 CON drain / 2d8 CON damage))
+- Party headed mossward ran into a group of Eladrin
+    - Alessar Ghale servant of **** protector of the Olympian Glades or Arborea
+- Alessar tasked them with returning with a golden acorn
+- Baileron Waifinder, the dwarf lock smith,+ left the party to travel back to ysgard which he felt was closer to his home.
+- a satyr led them in a dance and told them to take lots of acorns
+- Dylan "met a Nymph" who implored him to take no more acorns than they need
+- Dylan and Leuca took 0
+- Tempus took 6
+- Bobby Hook took 3 (maybe let him have one more he asked for 4)
+- As they walked back mossward, they were suddenly surprised by a giant dire squirrel w/ a crazed look in its eyes. It wants your nuts.
+    - Dire Weasel, Dire Bear, Dire Dire Weasel?
+
+#### 2024-11-xx
+The party split in the fight with the dire-squirrel
+
+#### 2024-12-05
+After bringing the acorn to the Eladrin, the party was free to continue their quest.
+The followed the directions and open a portal to the edge of Sneezeweed's lands in the Feywild
+A beautifully vibrant forest surrounding a barren waste land containing a giant tooth castle.
+
+#### 2025-01-23
+The party approach the Furcation zone around the castle. on the way the encountered a group of
+Fey giants irritable from being forced out of the Furcation Zone. The party hid, The giants
+noticed a very poorly hidden Mittens in the form of a dire bear. With a little quick thinking
+Booby Hook was able to suggest they just continue on their way with just a single rock toss.
+Encountering an isolated tooth fairy, Tempus managed to catch it with a bola. Questioning and then
+releasing it the party learned of the acid swamp with a dragon and the swarms of tooth fairies in
+the area. The also learned of the tunnels beneath the walls made by the "Dark Elves".
+
+They are now searching for an entrance to such a tunnel.
+
+
+#### 2025-01-30
+Skipping stones on stone is a lot easier than water.
+   -- Bobby Hook
+
+They found an entrance in a cliff face. the door and first room were full of traps.
+The ceiling was full of holes in foyer
+after figuring it to be mostly a distraction
+the white stone door creaked open while the shifting floor locked level and solid.
+
+#### 2025-02-20
+The entry way was to a Fey Deep Dwarf stronghold
+The dreugar agreed to let the party pass through as they are trying to remove Nexremmis
+The party has chosen to spend the night in the dwarves stronghold.
+Dylan has done some batering with locals.
+Bobby hook is gathering ingredients for making mushroom soup with the hope of swaying the
+locals to help the party find the best way to the Ivory Palace.
+
+##### 2025-03-06
+Gloin Giantslayer - dwarven scout
+Fought 4 bugganes
+
+##### 2025-03-27
+Gloin told the party that they were passing an underground Slag Giant town.
+
+They sneaked past the town on a high ledge and got caught on tar paper.
+
+After getting some distance from the giants the party decided to make use of a rope trick, with only a couple more hours to their exit.
+
+leuca has a nightmare visit...
+
+##### 2025-04-10
+After a threatening conversation with Naxx Leuca has decided to continue on his path of goodness and niceness
+
+Coming up to the foundation,
+
+##### 2025-05-15
+The party walked around the outside of the betoothed palace. sneaking past the dieing kola garden
+getting to the entryway a great causeway guarded by a huge enamel Golem.
+The party was able to slip in amongst the draperies.
+watched a couple of drow be eviscerated by a swarm of tooth faeries
+then watched the court proceedings of the Voice of the Enamel Emperor Naxxremis the Hateful
+Then then slipped through the kitchen/workshop to the stairway up the first tower
+
+They can either go out onto the roof or continue to the top of the tower.
+
+##### 2025-05-22
+The Party snuck up to the top of the top of the tower. Disarming a poison dart trap on the way up.
+There they killed a watchmen "manning" a ballista. While Bobby Hook ate his lunch they found in a
+nearby chest, Tempus raised the interest of a spire drake from one of the other towers.
+
+##### 2025-06-19
+They slayed the Drakes shockingly without raising the alarm.
+The next plan is to see if they can fly to the other towers.
+
+##### 2025-06-26
+The party went back down toward the kitchens.
+Running into a kitchen servant taking food to the guards they "volunteered" to deliver to Tooth chowder to
+the guards. after a couple mild disastrous taste tests Bobby Hook, Dylan and Tempus were able to mix the poison from
+the poison dart trap into a truly delicious(critical success 30 by Bobby Hook) dish designed to maximize gastric distress. The party got the guards
+to let them past the golem to deliver the chowder. The seductive scent attracted goblins and Tooth fairies from duty and the barracks to try the toxic
+stew. The party used the distraction to get down through towers 2 and 3 before the ill effects started to kick in. There among rows of doors the party fought their first enamel Golem.
+
+##### 2025-07-24
+After talking to to a group of uncorrupted faeries that Naxremis
+is keeping to extract magical resources. The party decided to steal
+a manual on the enamel golems from the basement lair. Leuca and
+Dylan sneaked down and grabbed the book from the lab. Dylan found an
+interesting sealed iron flask and Leuca was intrigued by a beautiful
+bejeweled ring.
+They got away back up to the treasury on the 2nd floor.
+
+###### 2025-08-21
+After learning that acid weakens the golems DR the party has started a frontal assault on the throne room. 
+The party sneaked right up to the rooms entrance.
+
+##### 2025-09-19
+They have defeated Naxremis, 3 enamel golems and 2 swarm sof tooth faries.
+They let Naxremis escape with his life and his golems if he promised to leave the wand and never return.
+
+##### 2025-10-02
+Cleaned out the castle. Tempus did some "redecorating" to the land scape restoring some order to the 
+fey wild perhaps too much order. Dylan, Bobby Hook and the old pastry chef made some pastries, Sneezeweed 
+showed up put everything right and re-combobulated Leuca with some fey wild magic.
+
+###### Furcation Zone
+1. a pack of fey cloud giants
+2. tooth fairy scouts
+3. a bunch of swarms of tooth fairies
+4. ghouls
+Alternative
+3-4. goblins to pass the the moat and gates
+
+5. moat has an acid monster - Mature adult green dragon
+
+###### Foramen gates and Extracoronal gardens
+An Huge Enamel golem (greater stone golem)
+
+
+###### inside castle
+The enamel golem workshop
+
+stone golems and tooth fairies
+
+
+final fight
+2 swarms of tooth faeries
+3+ enamel golems
+The dark wizard ( A lich ?) can cast 2 spells per turn while in the castle.
+
+
+
+cariogenic moat
+incisor (mountain range)
+
+
+cavity
+cementum yellow layer around enamel
+enamel
+crown
+deciduous dentition
+dentin
+pericoronal
+prophylaxis
+ranula top (big hill)
+
+
+##### 2025-10-30
+After returning to the City of Brass. The group went shopping. Dylan bought Bane arrows, Bobby hook bought some spell foci, for contingency.
+While working on building their new Clay golem to wield Ardnor, the intelligent holy avenger. The party had faerie dreams waking to 
+find 20000 GP under each of their pillows.
+
+#### Ardnor, Clay Golem
+Size/Type:	Large Construct
+Hit Dice:	11d10+30 (90 hp)
+Initiative:	-1
+Speed:	20 ft. (4 squares)
+Armor Class:	22 (-1 size, -1 Dex, +14 natural), touch 8, flat-footed 22
+Base Attack/Grapple:	+8/+19
+Attack:	 "+5 holy cold iron longsword" +20 melee (1d8+5+7 {+2d6 vs evil} )
+Full Attack:	"+5 holy cold iron longsword" +20 melee (1d8+5+7 {+2d6 vs evil} ) and 1 slam +14 melee (2d10+7)
+Space/Reach:	10 ft./10 ft.
+Special Attacks:	Berserk(1% cumulative per round of combat), +5 holy cold iron longsword, 
+Special Qualities:	Construct traits, damage reduction 10/adamantine and bludgeoning, darkvision 60 ft., immunity to magic, low-light vision 120ft
+Special Abilities: haste (3 rounds) 1/day , Greater Dispel Magic (lvl 11) 3/day, Bless 3/day, 
+Saves:	Fort +3, Ref +2, Will +3
+Abilities:	Str 25, Dex 9, Con Ø, Int 10, Wis 14, Cha 14
+Skills:	Intimidation 10 ranks (+17)
+Languages: Common, Celestial
+Feats:	—
+Environment:	Any
+Organization:	Solitary or gang (2-4)
+Challenge Rating:	10
+Treasure:	None
+Alignment:	Lawful Good (Overzealous) (Special Purpose: slay evil outsiders)
+
+
+##### 2026-01-15
+Dave made some stone to flesh potions. 
+Going back thru the entrance beneath Klar's shop the party was able to dicscern some nnon-linearities in time.
+Their aid to young Klar changed old Klar's future.
+Bobby Hook used is connection to mittens to track him down a a local "Infirmary and Enlightenment" center.
+ON level 2 they found Mittens trapped in a bottle being prodded by 3 ice devils.
+Battle Begins...
+
+
+##### 2026-01-29
+First level Find and save Mittens.
+Locate object/find familiar will take the party to a demon keeping Mittens in a bottle.
+The intent is to use Mittens in an experiment.
+The blinded devils teleport out of the fight.
+
+
+##### 2026-03-05
+Second level
+An elaborate illusion of Vendido. 
+Everything is as they remember, but the people are all spread too thin.
+Igron is there, but visibly nervous around the players.
+Valagrun the abyssal is disguised as a person in the mayor's house.
+When the party figures out what is happening the devil will offer to let them keep the domain in exchange for production.
+He will let them change anything about the place they want, they can even move into the mayor's house.
+
+##### The Final Battle
+1 Pit Fiend
+1 Horned Devil
+2 Barbed Devils
