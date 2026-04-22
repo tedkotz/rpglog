@@ -54,9 +54,29 @@ rectangle phil [
 Wizard
 ]
 
+rectangle mayor [
+**Gist Dodson**
+Human / Noble
+Mayor
+]
+
+rectangle lawyer [
+**Ford Jones, Esq.**
+Human / Noble
+Lawyer/Banker/Company Representative
+]
+
+rectangle septan [
+**Septan Sebastian**
+Human / Sage
+Warrior Monk
+Head of local church
+]
+
+
 
 rob <-- aaron  : link
-
+lawyer <-- mayor : friend and lawyer
 @enduml
 ```
 -->
