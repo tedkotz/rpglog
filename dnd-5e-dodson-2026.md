@@ -24,34 +24,44 @@ Interest
 ]
 
 rectangle rob [
-**Name**
+**Zanear**
 Wizard
+Booksmart Greenhorn
 ]
 
 rectangle jim [
-**Name**
+**"Tank" Williams**
+Human
 Fighter
+Mason/Peasant Conscript
 ]
 
 rectangle martin [
-**Name**
+**Evaan Carter**
+Half-Gnome
 Rogue
+Explorer/Cartographer/Archivist
 ]
 
 rectangle dave [
-**Name**
+**Anton Mostana**
+Human
 Warrior Monk
+Religious Freedom 
+Healer/Forager
 ]
-
 
 rectangle calvin [
 **Name**
+Gnome
 Wizard
 ]
 
 rectangle phil [
-**Name**
+**Wilwin Puddlegem**
+Forest Gnome
 Wizard
+Research Botanist
 ]
 
 rectangle mayor [
@@ -71,11 +81,40 @@ rectangle septan [
 Human / Sage
 Warrior Monk
 Head of local church
+Long retired chaplain
 ]
 
+rectangle sister [
+**Zara**
+Famous Acrobat and circus front woman
+]
 
+rectangle colleague [
+**Lilxi Seemloberel**
+Deceased Herbalist
+]
 
-rob <-- aaron  : link
+lawyer <-- rob : scribe for
+mayor <-- septan : father's army chaplain
+jim <-- sister : dumped cause he was too dumb, cute though
+sister <-- jim : had relations with
+sister <-- rob : sister
+colleague <-- phil : dead colleague
+phil <-- rob : concerned his science may bring a true darkness to the colony
+calvin <-- jim : bought a potion that worked really well
+aaron <-- martin : trespassed on his family estate
+aaron <-- phil : trespassed on his family estate after meeting Evaan
+martin <-> phil : long conversation in the North Port library
+rob <-- dave : politely removed from church grounds for Sebastian
+septan <-- dave : respects his MANY years of experience
+jim <-- phil: hired to move some rare books
+calvin <-- martin : heard bad rumors about
+calvin <-- phil : has suggestion on the potency of his potions
+jim <-- rob : jealous of his confidence and stalked a little
+phil <-- dave : read his research
+dave <-- jim : assisted with meeting setup
+rob <-- martin : met at circus found his demeanor fascinating
+
 lawyer <-- mayor : friend and lawyer
 @enduml
 ```
@@ -84,6 +123,7 @@ lawyer <-- mayor : friend and lawyer
 Log
 ---
 
-#### 2026-04-xx
+#### 2026-04-22
+(
 
 #### 20xx-xx-xx
