@@ -14,13 +14,17 @@ Characters
 ```plantuml
 @startuml dnd-5e-dodson-2026
 
+
 rectangle aaron [
-**Name**
-Posh Human Noble
-Someing about Class
-Party Role
-Motivation
-Interest
+**Mauritius Sinclair**
+Human Noble
+Dex based Fighter
+Lord Captain of the Golden Eagle (Guard)
+]
+
+rectangle lordfather [
+**Viscount Rupert Sinclair**
+Minor Rural Lord of Aethalond
 ]
 
 rectangle rob [
@@ -94,6 +98,7 @@ rectangle colleague [
 Deceased Herbalist
 ]
 
+
 lawyer <-- rob : scribe for
 mayor <-- septan : father's army chaplain
 jim <-- sister : dumped cause he was too dumb, cute though
@@ -114,6 +119,9 @@ jim <-- rob : jealous of his confidence and stalked a little
 phil <-- dave : read his research
 dave <-- jim : assisted with meeting setup
 rob <-- martin : met at circus found his demeanor fascinating
+lordfather <-- aaron : father
+jim <-- lordfather : hired to work as a laborer
+mayor <-- lordfather : recommended Mauritius for new colony
 
 lawyer <-- mayor : friend and lawyer
 @enduml
