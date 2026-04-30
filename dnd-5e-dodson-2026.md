@@ -132,15 +132,19 @@ Log
 ---
 
 #### 2026-04-22
-(April 18th 2769)
+##### Wodensday 18th of April 2769
+- **Weather** Sleeting Mist
+  
 The Party boarded the Ohana and left for the colony under mildly sleeting conditions.
 
 Shortly after leaving Zanear and Wilwin started to develop motion sickness.
 Wilwin found a root among his collection that helped keep it under control.
 
 #### 2026-04-29
-(May 6th 2769 - The Mother's Day)
-16 days into the voyage, the party discussed being home sick, saw some wonder's of the ocean, and got a treat with there dinners.
+##### Fryaday 6th of May 2769 - The Mother's Day
+- **Weather** Clear, Sunny, Cool
+
+16 days into the voyage, the party discussed being home sick, saw some of the ocean's wonders, and got a treat with there dinners.
 
 Anton lamented the lack of Mother's Day spring berry treats of his youth here at sea. Anita Baker comisserated looking forward to when the colony would be ready to produce fresh baked goods. Hoping that the first wave colonist had successfully grown and milled a supply of flour.
 
@@ -150,7 +154,7 @@ A spectacular show of nature's fury was unveiled as in the distance a great bird
 
 A dried fruit pastry was provided by the quarter master with dinner rations. Not a noble dessert, but welcomed by the crew and passengers after so long eating dried meat stew, particularly Anton.
 
-As night settled in Wallace Wainwright noticed a strange glow coming from the ships wake. WilWin got Zanear to Mage hand him a sample in a vile.
+As night settled in Wallace Wainwright noticed a strange glow coming from the ship's wake. Wilwin got Zanear to Mage hand him a sample in a vile.
 
 
 #### 20xx-xx-xx
