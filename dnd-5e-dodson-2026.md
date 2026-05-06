@@ -99,6 +99,10 @@ rectangle colleague [
 Deceased Herbalist
 ]
 
+rectangle enemy [
+**Baron Muldane**
+Wizard Baron
+]
 
 lawyer <-- rob : scribe for
 mayor <-- septan : father's army chaplain
@@ -123,7 +127,8 @@ rob <-- martin : met at circus found his demeanor fascinating
 lordfather <-- aaron : father
 jim <-- lordfather : hired to work as a laborer
 mayor <-- lordfather : recommended Mauritius for new colony
-
+enemy <-- calvin : Swindled out of a sizable amount of treasure.
+enemy <-- lordfather : Sworn fealty to
 lawyer <-- mayor : friend and lawyer
 @enduml
 ```
