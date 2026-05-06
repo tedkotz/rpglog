@@ -51,14 +51,15 @@ rectangle dave [
 **Anton Mostana**
 Human
 Warrior Monk
-Religious Freedom 
+Religious Freedom
 Healer/Forager
 ]
 
 rectangle calvin [
-**Name**
-Gnome
-Wizard
+**Fizzlepop**
+Rock Gnome
+Charlatan Wizard
+Snake Oil Salesman
 ]
 
 rectangle phil [
@@ -134,7 +135,7 @@ Log
 #### 2026-04-22
 ##### Wodensday 18th of April 2769
 - **Weather** Sleeting Mist
-  
+
 The Party boarded the Ohana and left for the colony under mildly sleeting conditions.
 
 Shortly after leaving Zanear and Wilwin started to develop motion sickness.
