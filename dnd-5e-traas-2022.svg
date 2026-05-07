@@ -15,7 +15,7 @@ reverse link miriam to mady--><path d="M619.5,128.34 C619.5,152.9 619.5,180.36 6
 reverse link aaron to priestess--><path d="M236.5,555.21 C236.5,578.22 236.5,604.61 236.5,628.75 " fill="none" id="aaron&lt;-priestess" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="236.5,550.04,232.5,559.04,236.5,555.04,240.5,559.04,236.5,550.04" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="297" x="237.5" y="594.897">finds Neezdec endearing and gives him odd tasks.</text><!--MD5=[963ae0ff7b36c818eeeb89d47657e8f7]
 reverse link mady to priestess--><path d="M622.97,284.31 C626.51,357.98 622.77,509.45 543.5,599 C521.55,623.79 493.51,642.76 463.33,657.27 " fill="none" id="mady&lt;-priestess" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="622.71,279.14,619.1789,288.3341,622.9675,284.1334,627.1683,287.922,622.71,279.14" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="153" x="614.5" y="497.897">Thinks you a very capable</text><!--MD5=[67f580d3a4f5c6fd090dbada561770a7]
 reverse link miriam to prince--><path d="M756.36,117.26 C781.5,128.08 807.15,140.15 830.5,153 C914.11,199.02 1002.56,264.79 1058.57,308.87 " fill="none" id="miriam&lt;-prince" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="751.67,115.26,758.3666,122.4819,756.2657,117.2296,761.518,115.1287,751.67,115.26" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="129" x="860.5" y="167.897">Dismissive role model</text><!--MD5=[91eaa98e3eb2fcafed7c21b3e3ad5c13]
-reverse link mady to aaron--><path d="M490.47,274.07 C483.05,275.78 475.68,277.44 468.5,279 C397.81,294.39 364.29,262.94 308.5,309 C270.81,340.12 252.75,393.69 244.16,434.77 " fill="none" id="mady&lt;-aaron" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="495.62,272.88,485.9494,271.0145,490.749,274.0085,487.755,278.808,495.62,272.88" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="253" x="309.5" y="362.397">Loves to help her with here temple chores.</text><!--MD5=[880d1e55f5af46b202bb76edf288fec0]
+reverse link mady to aaron--><path d="M490.47,274.07 C483.05,275.78 475.68,277.44 468.5,279 C397.81,294.39 364.29,262.94 308.5,309 C270.81,340.12 252.75,393.69 244.16,434.77 " fill="none" id="mady&lt;-aaron" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="495.62,272.88,485.9494,271.0145,490.749,274.0085,487.755,278.808,495.62,272.88" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="253" x="309.5" y="362.397">Loves to help her with here temple chores.</text><!--MD5=[3661e789f27983ee2b1b2ab8d285b61a]
 @startuml dnd-5e-traas-2022
 
 rectangle aaron [
@@ -92,7 +92,7 @@ PlantUML version 1.2020.02(Sun Mar 01 05:22:07 EST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 21.0.10+7-Debian-1deb13u1
+Java Version: 21.0.11+10-1-deb13u2-Debian
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

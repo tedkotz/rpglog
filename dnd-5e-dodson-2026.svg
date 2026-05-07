@@ -38,7 +38,7 @@ reverse link jim to lordfather--><path d="M1144.23,968.16 C1220.6,995.57 1324.04
 reverse link mayor to lordfather--><path d="M1556.32,392.73 C1581.52,404.97 1608.31,422.38 1625.5,446 C1653.68,484.73 1647.5,503.6 1647.5,551.5 C1647.5,551.5 1647.5,551.5 1647.5,932 C1647.5,991.19 1590.39,1033.01 1541.41,1057.99 " fill="none" id="mayor&lt;-lordfather" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1551.63,390.51,1558.0543,397.9751,1556.1496,392.6486,1561.4761,390.7438,1551.63,390.51" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="239" x="1648.5" y="751.897">recommended Mauritius for new colony</text><!--MD5=[06b019ac5c15b19b7ec169c4e835c9c3]
 reverse link enemy to calvin--><path d="M1147.8,51.54 C1004.59,80.18 671.82,146.74 521.56,176.79 " fill="none" id="enemy&lt;-calvin" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1152.81,50.54,1143.204,48.3666,1147.9055,51.5123,1144.7597,56.2138,1152.81,50.54" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="268" x="922.5" y="110.897">Swindled out of a sizable amount of treasure.</text><!--MD5=[2668253e7d694450969325c1f548ca75]
 reverse link enemy to lordfather--><path d="M1283.27,38.09 C1463.6,40.14 1941.5,58.19 1941.5,192 C1941.5,192 1941.5,192 1941.5,932 C1941.5,1006.83 1723.27,1051.23 1584.54,1071.89 " fill="none" id="enemy&lt;-lordfather" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1278.03,38.03,1286.9837,42.1326,1283.0297,38.0871,1287.0751,34.1331,1278.03,38.03" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="90" x="1942.5" y="557.897">Sworn fealty to</text><!--MD5=[5b52e5f9a63f9df273982d5e75503b91]
-reverse link lawyer to mayor--><path d="M1256.82,234.02 C1309,263.71 1379.46,303.81 1429.32,332.18 " fill="none" id="lawyer&lt;-mayor" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1252.46,231.54,1258.3037,239.4679,1256.8056,234.013,1262.2605,232.5149,1252.46,231.54" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="103" x="1348.5" y="285.897">friend and lawyer</text><!--MD5=[58420786ad076d9321d541815b998641]
+reverse link lawyer to mayor--><path d="M1256.82,234.02 C1309,263.71 1379.46,303.81 1429.32,332.18 " fill="none" id="lawyer&lt;-mayor" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1252.46,231.54,1258.3037,239.4679,1256.8056,234.013,1262.2605,232.5149,1252.46,231.54" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="103" x="1348.5" y="285.897">friend and lawyer</text><!--MD5=[77cb8031d297212391ffbb1fd54ca93c]
 @startuml dnd-5e-dodson-2026
 
 
@@ -163,7 +163,7 @@ PlantUML version 1.2020.02(Sun Mar 01 05:22:07 EST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 21.0.10+7-Debian-1deb13u1
+Java Version: 21.0.11+10-1-deb13u2-Debian
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

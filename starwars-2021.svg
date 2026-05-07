@@ -10,7 +10,7 @@ link rowan to kitt--><path d="M209.01,250.93 C263.65,230.83 332.34,209.08 396,19
 link master to hess--><path d="M430.47,100.72 C452.79,102.92 476.12,103.78 498,102 C504.06,101.51 510.25,100.89 516.5,100.18 " fill="none" id="master-&gt;hess" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="521.76,99.56,512.3538,96.6405,516.7943,100.145,513.2898,104.5856,521.76,99.56" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="42" x="455" y="97.897">Master</text><!--MD5=[f44e0dc67b7111e01017f10180fd5afb]
 reverse link master to hess--><path d="M435.69,80 C463.91,80 494.02,80 521.97,80 " fill="none" id="master&lt;-hess" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="430.44,80,439.44,84,435.44,80,439.44,76,430.44,80" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="448.5" y="72.897">Padawan</text><!--MD5=[ccaad1686cbf3de74becb896625c0639]
 link rowan to tarei--><path d="M204.17,293.5 C254.47,293.5 316.12,293.5 369.77,293.5 " fill="none" id="rowan-&gt;tarei" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="374.93,293.5,365.93,289.5,369.93,293.5,365.93,297.5,374.93,293.5" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="134" x="222.5" y="286.397">Reluctant Subordinate</text><!--MD5=[a47e23b04c58be8a8a77d3ee9b112ed7]
-link tarei to rowan--><path d="M374.98,312.43 C338.54,316.09 298.42,318.08 261.5,315.5 C244.63,314.32 226.82,312.43 209.49,310.25 " fill="none" id="tarei-&gt;rowan" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="204.13,309.56,212.5408,314.6842,209.0885,310.203,213.5697,306.7507,204.13,309.56" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="54" x="262.5" y="311.397">Overseer</text><!--MD5=[3827a0aeffe4108363f76c1dec22a2e4]
+link tarei to rowan--><path d="M374.98,312.43 C338.54,316.09 298.42,318.08 261.5,315.5 C244.63,314.32 226.82,312.43 209.49,310.25 " fill="none" id="tarei-&gt;rowan" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="204.13,309.56,212.5408,314.6842,209.0885,310.203,213.5697,306.7507,204.13,309.56" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="54" x="262.5" y="311.397">Overseer</text><!--MD5=[abbce450a612834f703e82abf437e1b5]
 @startuml starwars-2021
 
 skinparam componentStyle rectangle
@@ -74,7 +74,7 @@ PlantUML version 1.2020.02(Sun Mar 01 05:22:07 EST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 21.0.10+7-Debian-1deb13u1
+Java Version: 21.0.11+10-1-deb13u2-Debian
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

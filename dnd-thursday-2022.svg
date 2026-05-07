@@ -37,7 +37,7 @@ link clem to martin--><path d="M460.21,283.14 C419.88,328.82 370.58,395.33 351,4
 reverse link clem to ulf--><path d="M411.59,236.69 C260.79,259.52 6,310.65 6,395.5 C6,395.5 6,395.5 6,700 C6,754.4 54.18,798.93 92.76,825.87 " fill="none" id="clem&lt;-ulf" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="416.91,235.89,407.4155,233.272,411.9655,236.6331,408.6044,241.1832,416.91,235.89" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="34" x="7" y="557.897">Uncle</text><!--MD5=[54fdee65de51acbf18ffc1702e9899ff]
 reverse link james to martin--><path d="M1048.65,589.01 C1044.73,589.72 1040.84,590.38 1037,591 C861.42,619.2 813.41,591.76 638,621 C565.69,633.05 485.27,654.6 426.69,671.85 " fill="none" id="james&lt;-martin" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1053.63,588.09,1044.0567,585.7767,1048.7118,588.9907,1045.4978,593.6459,1053.63,588.09" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="110" x="639" y="635.897">immune to pranks</text><!--MD5=[1e1259a54c78221428d73a3968168f5b]
 reverse link martin to dave--><path d="M366.08,732.24 C379.02,748.04 396.48,765.98 416,777 C499.52,824.16 609.33,842.45 683.72,849.53 " fill="none" id="martin&lt;-dave" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="362.89,728.28,365.4015,737.8032,366.0187,732.1802,371.6418,732.7973,362.89,728.28" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="417" y="772.897">silent confidant</text><!--MD5=[1917d58d3fdcaa4e21e7a7cff14d5ec8]
-reverse link james to mittens--><path d="M1213.86,595.48 C1228.56,619.35 1246.57,648.59 1259.59,669.73 " fill="none" id="james&lt;-mittens" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1211.15,591.09,1212.4511,600.8525,1213.7665,595.3507,1219.2683,596.6661,1211.15,591.09" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="95" x="1241" y="635.897">Partner in crime</text><!--MD5=[bb0525fff63483e0a87bc19d26c9da1d]
+reverse link james to mittens--><path d="M1213.86,595.48 C1228.56,619.35 1246.57,648.59 1259.59,669.73 " fill="none" id="james&lt;-mittens" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="1211.15,591.09,1212.4511,600.8525,1213.7665,595.3507,1219.2683,596.6661,1211.15,591.09" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="95" x="1241" y="635.897">Partner in crime</text><!--MD5=[6968838fe8667bf3c329bc001691f332]
 @startuml dnd-thursday-2022
 
 rectangle clem [
@@ -158,7 +158,7 @@ PlantUML version 1.2020.02(Sun Mar 01 05:22:07 EST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 21.0.10+7-Debian-1deb13u1
+Java Version: 21.0.11+10-1-deb13u2-Debian
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

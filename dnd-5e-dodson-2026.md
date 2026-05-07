@@ -152,7 +152,7 @@ Wilwin found a root among his collection that helped keep it under control.
 
 16 days into the voyage, the party discussed being home sick, saw some of the ocean's wonders, and got a treat with there dinners.
 
-Anton lamented the lack of Mother's Day spring berry treats of his youth here at sea. Anita Baker comisserated looking forward to when the colony would be ready to produce fresh baked goods. Hoping that the first wave colonist had successfully grown and milled a supply of flour.
+Anton lamented the lack of Mother's Day spring berry treats of his youth here at sea. Anita Baker commiserated looking forward to when the colony would be ready to produce fresh baked goods. Hoping that the first wave colonist had successfully grown and milled a supply of flour.
 
 Up on deck Gist Dodson recounted that he looked forward to getting back to the colony, he was forced to leave behind his wife and new born daughter who was too young to travel.
 
@@ -162,6 +162,42 @@ A dried fruit pastry was provided by the quarter master with dinner rations. Not
 
 As night settled in Wallace Wainwright noticed a strange glow coming from the ship's wake. Wilwin got Zanear to Mage hand him a sample in a vile.
 
+Everyone then settled in to sleep in the main hold of the ship.
+
+
+#### 2026-06-06
+
+##### Asturday 28th of May 2769
+Around Sunset first spotted land. Captain Turned South toward colony.
+
+##### Sunneday 1st of June 2769
+- **Weather**, Misty Morning giving way to sunny day.
+The Ohana docked in the natural Harbor on Dodson Island around 4:30 AM.
+There was no lights from the colony of signs of activity
+They Party went with Dodson to investigate the colony while Ford and the others stayed back to inventory unload and load the Ohana.
+At the colony the party found the gates were wide open, And the colony was completely abandoned. little sign of anyone remained
+the partially constructed buildings, some of Dodson's stuff was still there. FOrd's house was completely untouched.
+There was a fairly large amount of fine Timber ready to be loaded on the ohana.
+The only sign of life was a sigil carved into an Aethlond Tree near the temple. No one was able to discern its meaning.
+
+
+The spooked colonists discussed their options, some sought passage back to Aethalond, but the only one the captain of the Ohana could justify taking was the shipwright, leaving the colony without one. 
+
+The remaining colonists called a meeting at which they decided that the best course of action was to split into 2 groups 1 focused on plowing and planting the fields even though it is already a little late in the season, the other would focus on finishing the towns defenses. All of this before any exploration was done.
+
+##### 2nd of June
+The Ohana filled with exotic high quality timber and Ford's Correspondance set out for Aethelond
+
+
+##### The rest of June
+The Teams finished their plans to get the colony just started in security and survival.
+
 
 #### 20xx-xx-xx
-Everyone then settled in to sleep in the main hold of the ship.
+##### Asturday 28th of June 2769
+- **Weather**, 
+Make sure no one wanted to send a letter before teh ship left.
+
+#### 20xx-xx-xx
+##### Sunneday 1st of July 2769
+- **Weather**, 
